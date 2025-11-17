@@ -32,7 +32,7 @@ body {
 ヘッダー
 -------------------------------------------*/
 #header {
-  margin-top: 60px;
+  margin-top: 80px;
 }
 
 #header .site-title {
@@ -96,3 +96,4 @@ Detail
 #detail .content .text p {
   margin-bottom: 20px;
 }
+
